@@ -1,2 +1,3 @@
-# cargo-inspect
+# Cargo Inspect
+
 Schema Validation Library for Cargo
